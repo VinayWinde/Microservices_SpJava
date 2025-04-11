@@ -13,7 +13,7 @@ This project demonstrates a modular **Microservices Architecture** built with **
 | `rating-service`| Handles ratings given to hotels by users       | 8083   |
 | `config-server`| Centralized externalized configuration          | 8085   |
 | `api-gateway`  | Single entry point for routing + load balancing | 8084   |
-|'servive-registry|Enables Eureka server                           | 8761   |
+|`service-registry`|Enables Eureka server                           | 8761   |
 
 ---
 
